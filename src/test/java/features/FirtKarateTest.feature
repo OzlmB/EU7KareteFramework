@@ -22,7 +22,7 @@ Feature: welcome to karate
     * print student
     * print student.name
     * print student.owes_tuition
-@wip
+
   Scenario: json object 2
     * def student =
     """
